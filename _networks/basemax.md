@@ -1,6 +1,6 @@
 ---
 layout: network
-permalink: /network/basemax/
+permalink: /profile/basemax/
 name: Max
 family: Base
 github: basemax
