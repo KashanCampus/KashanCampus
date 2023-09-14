@@ -44,7 +44,7 @@ title: جامعه متخصصین شهر کاشان
 {% endfor %}
 {% capture members %}{% increment total %}{% endcapture %}
 
-## لیست متخصصین ({{ members }})
+## اسامی افراد جامعه کاشان ({{ members }})
 <table class="accounts" width="100%" border="0">
   {% for network in site.networks %}
   <tr>
