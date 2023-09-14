@@ -4,12 +4,9 @@ permalink: /
 title: جامعه متخصصین شهر کاشان
 ---
 
-<h1>
-	<a href="/">&uarr;</a>
-	جامعه متخصصین و برنامه نویسان شهر کاشان
-</h1>
+<h1>جامعه متخصصین و برنامه نویسان شهر کاشان</h1>
 
-Do you want to see yourself here? Click [here](https://github.com/NextCommunity/NextCommunity.github.io){:target="\_blank"} to add your own.
+می خواهید خودتان را در لیست ببینید؟ [اینجا](https://github.com/KashanCampus/KashanCampus){:target="\_blank"} کلیک کنید تا خودتان را اضافه کنید.
 
 <style type="text/css">
 .accounts tr {
