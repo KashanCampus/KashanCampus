@@ -14,29 +14,29 @@ mobile: +989217412088
 email: vahyd@live.com
 country: ایران
 city: کاشان
-role: Data Scientist and AI Enthusiast
+role: Graduate  Intelligent Information Systems' And Social Networks' Researcher
 languages: python javascript html css
 experiences:
-  - company_name: Arshaplus Group
-    role: UI/UX Designer and Front-End Developer
-    description: started my professional career here and learned technologies like Adobe XD, Figma, HTML, CSS and Javascript
-    link: https://arshaplus.com/
-    tags: html css javascript 
-  - company_name: Mehsa
-    role: Co-Founder and CTO
-    description: Formed in the IoT and Robotics R&D group of Isfahan University of Technology. The main focus was to teach IoT and Robotics technologies like Arduino, ESP and Raspberry Pi to young students in the age of 8 to 13 and implement IoT applications. Taught 200+ students in two semesters. After Covid-19 we pivoted to online teaching and content creation and started mehsa.ir . I was in charge of designing and development of website. To this day even after we stopped working on Mehsa, the website is still running and has 200+ organic daily users to use the free content.  
-    link: https://mehsa.ir/
-    tags: arduino python raspberry pi laravel php html css javascript
+  - company_name: Intelligent Information Systems' Lab and Social Networks' Lab, University of Tehran       
+    role: Research Assistant
+    description: Researching on the intelligent information systems' in the intersection of NLP, Information Retrieval and Social Networks    
+    link: https://ece.ut.ac.ir/
+    tags: python pytorch pandas keras nltk haystack transformers networkx neo4j graphs algorithms gephi big-data twitter 
   - company_name: Qorfechi       
     role: Co-Founder and Software Engineer
     description: Primarily worked as a Front-End Developer, Planner and UI/UX Designer of the company website and also its clients.    
     link: https://qorfechi.com/
     tags: javascript html css Figma alpinejs tailwindcss
-  - company_name: Intelligent Information Systems' Lab, University of Tehran       
-    role: Research Assistant
-    description: Researching on the intelligent information systems' in the intersection of NLP, Information Retrieval and Social Networks    
-    link: https://ece.ut.ac.ir/
-    tags: python pytorch pandas keras nltk haystack transformers networkx neo4j graphs algorithms gephi 
+  - company_name: Mehsa
+    role: Co-Founder and CTO
+    description: Formed in the IoT and Robotics R&D group of Isfahan University of Technology. The main focus was to teach IoT and Robotics technologies like Arduino, ESP and Raspberry Pi to young students in the age of 8 to 13 and implement IoT applications. Taught 200+ students in two semesters. After Covid-19 we pivoted to online teaching and content creation and started mehsa.ir . I was in charge of designing and development of website. To this day even after we stopped working on Mehsa, the website is still running and has 200+ organic daily users to use the free content.  
+    link: https://mehsa.ir/
+    tags: arduino python raspberry pi laravel php html css javascript
+  - company_name: Arshaplus Group
+    role: UI/UX Designer and Front-End Developer
+    description: started my professional career here and learned technologies like Adobe XD, Figma, HTML, CSS and Javascript
+    link: https://arshaplus.com/
+    tags: html css javascript 
 
 projects:
   - name: TopcoWin Website
