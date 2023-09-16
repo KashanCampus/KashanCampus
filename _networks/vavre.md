@@ -15,13 +15,13 @@ email: vahyd@live.com
 country: ایران
 city: کاشان
 role: Graduate  Intelligent Information Systems' And Social Networks' Researcher
-languages: python javascript html css
+languages: python (FastAPI, pytorch, keras, pandas, rasa, networkx, transformers), javascript (vue, alpinejs), bash, html, css (tailwindcss, scss), php (laravel)
 experiences:
   - company_name: Intelligent Information Systems' Lab and Social Networks' Lab, University of Tehran       
     role: Research Assistant
     description: Researching on the intelligent information systems' in the intersection of NLP, Information Retrieval and Social Networks    
     link: https://ece.ut.ac.ir/
-    tags: python pytorch pandas keras nltk haystack transformers networkx neo4j graphs algorithms gephi big-data twitter 
+    tags: python pytorch pandas keras nltk haystack transformers networkx neo4j graphs algorithms gephi big-data twitter huggingface recommender-systems llm 
   - company_name: Qorfechi       
     role: Co-Founder and Software Engineer
     description: Primarily worked as a Front-End Developer, Planner and UI/UX Designer of the company website and also its clients.    
