@@ -1,4 +1,3 @@
-
 ---
 layout: network
 permalink: /profile/vavre/
