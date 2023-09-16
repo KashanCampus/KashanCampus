@@ -1,3 +1,4 @@
+
 ---
 layout: network
 permalink: /profile/vavre/
@@ -7,8 +8,8 @@ github: vavre
 gitlab: ..
 website: ..
 linkedin: https://www.linkedin.com/in/vavre/
-twitter: @VavReDev
-telegram: @VavReDev
+twitter: VavReDev
+telegram: VavReDev
 whatsapp: ..
 mobile: +989217412088
 email: vahyd@live.com
@@ -72,3 +73,4 @@ projects:
 I am a dedicated student with a deep interest in computers and a strong commitment to continuous learning. Throughout my professional journey, I have gained experience in various programming areas, working on different devices and platforms. Additionally, I had the privilege of achieving commendable results in nationwide graduate-level university entrance exams. I secured the 2nd and 6th positions in Information Technology and Computer Engineering, respectively, which granted me full scholarships.
 
 Currently, I am a Research Assistant at Information Intelligent Systems' and Social Networks Lab in ECE at University of Tehran. My focus lies on pursuing academic research and exploring the fascinating field of AI. I am particularly drawn to the areas of Data Mining, Natural Language Processing (NLP), and Social Networks. With utmost enthusiasm, I hope to contribute to the advancement of these fields, utilizing my skills and passion.
+
