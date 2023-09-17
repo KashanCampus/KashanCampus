@@ -3,10 +3,10 @@ layout: network
 permalink: /profile/morteza-gho/
 name: Morteza
 family: QorbanAlizadeh
-github: morteza-gho
-gitlab: [gho.morteza](https://github.com/morteza-gho)
+github: https://github.com/morteza-gho
+gitlab: https://gitlab.com/gho.morteza
 website: https://qorbanalizade.ir
-linkedin: morteza-qorbanalizade
+linkedin: https://www.linkedin.com/in/morteza-qorbanalizade
 twitter: {put your twitter}
 telegram: morteza_qorbanalizade
 whatsapp: {put your whatsapp}
