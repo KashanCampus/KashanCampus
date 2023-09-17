@@ -14,7 +14,7 @@ title: پروفایل متخصص
     <span class="subtitle">{{ page.email }}</span>
   </a>
   <br />
-  <a href="tel:{{ page.mobile }}/">
+  <a href="tel:{{ page.mobile }}">
     <span class="subtitle">{{ page.mobile }}</span>
   </a>
   <br />
