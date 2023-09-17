@@ -15,7 +15,7 @@ email: arshaplus@gmail.com
 country: Iran
 city: Kashan
 role: Software Engineer | Project Manager | Full-stack Web Developer | DevOps Engineer
-languages: [back-end: php nodejs] [front-end: html css js] [devops: linux, kubernetes] [mobile: flutter/dart] 
+languages: php nodejs html css js linux kubernetes dart 
 experiences:
   - company_name: QorfeChi [2021-Present]
     role: Founder | CEO | Full-stack developer (Full-time)
@@ -44,7 +44,7 @@ experiences:
     tags: coding programming learning academy
 projects:
   - name: TaaKey??
-    description: An android app to assist soldiers with about 150,000 installs on cafebazar
+    description: An android app to assis [sd  ] t soldiers with about 150,000 installs on cafebazar
     link: https://taakey.ir
   - name: QorfeChi?!
     description: A platform to assist online businesses
