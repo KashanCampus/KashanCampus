@@ -17,26 +17,20 @@ city: Kashan
 role: Front-End Developer
 languages: React, Vue and related
 experiences:
-  - company_name: شرکت اول
-    role: برنامه نویس بک اند
-    description: توضیح پروژه ها و فعالیت
-    link: https://github.com/?1
-    tags: graphql php c c++ typescript javascript css html
-  - company_name: شرکت دوم
-    role: برنامه نویس بک اند
-    description: توضیح پروژه ها و فعالیت
-    link: https://github.com/?2
-    tags: graphql php c c++ typescript javascript css html
+  - company_name: Kaspianweb
+    role: Front-End Developer
+    description: develop more than 50 website
+    link: https://kaspianweb.ir
+    tags: Angularjs javascript css3 html5 PUG SCSS
+  - company_name: sai.co.ir
+    role: Front-End Developer Angular
+    description: Develop several PWA Applications and websites
+    link: https://sai.co.ir
+    tags: Angualr Angualrjs javascript css3 html5 PUG SCSS
 projects:
-  - name: پروژه اول
-    description: توضیح پروژه
-    link: https://github.com/?1
-  - name: پروژه دوم
-    description: توضیح پروژه دوم
-    link: https://github.com/?2
-  - name: پروژه سوم
-    description: توضیح پروژه سوم
-    link: https://github.com/?3
+  - name: See in my Website
+    description: See in my Website
+    link: https://qorbanalizade.ir/works.html
 ---
 
 I'm Morteza Qorbanalizadeh, A Front-End developer with more than 10 years of experience in this field.
