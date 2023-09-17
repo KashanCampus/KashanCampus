@@ -14,7 +14,7 @@ title: پروفایل متخصص
     <span class="subtitle">{{ page.email }}</span>
   </a>
   <br>
-  <span class="subtitle">{{ page.country }}, {{ page.location }}</span>
+  <span class="subtitle">{{ page.country }}, {{ page.city }}</span>
 
   <table width="100%" border="0">
     <tr>
