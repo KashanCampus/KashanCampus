@@ -4,7 +4,7 @@ permalink: /profile/morteza-gho/
 name: Morteza
 family: QorbanAlizadeh
 github: morteza-gho
-gitlab: gho.morteza
+gitlab: [gho.morteza](https://github.com/morteza-gho)
 website: https://qorbanalizade.ir
 linkedin: morteza-qorbanalizade
 twitter: {put your twitter}
