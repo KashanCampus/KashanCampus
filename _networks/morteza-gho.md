@@ -28,15 +28,15 @@ experiences:
     link: https://sai.co.ir
     tags: Angualr Angualrjs javascript css3 html5 PUG SCSS
   - company_name: Zarsam
-      role: Lead Front-End Developer
-      description: Develop and support SPA for zarsam company for 6 years
-      link: https://www.zarsam.com
-      tags: Angualrjs Vuejs Nextjs javascript css3 html5 PUG SCSS
+    role: Lead Front-End Developer
+    description: Develop and support SPA for zarsam company for 6 years
+    link: https://www.zarsam.com
+    tags: Angualrjs Vuejs Nextjs javascript css3 html5 PUG SCSS
   - company_name: Desap Enterprises
-      role: Front-End Developer - Reactjs
-      description: Develop education application
-      link: http://www.desap.co.uk
-      tags: Reactjs AttDesign GraphQL typescript javascript Tailwind css3 html5 SCSS 
+    role: Front-End Developer - Reactjs
+    description: Develop education application
+    link: http://www.desap.co.uk
+    tags: Reactjs AttDesign GraphQL typescript javascript Tailwind css3 html5 SCSS 
 projects:
   - name: See in my website
     description: See all my projects in my website please
