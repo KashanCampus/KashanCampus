@@ -39,4 +39,4 @@ projects:
     link: https://github.com/?3
 ---
 
-@asrez 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 Developer (𝐑𝐞𝐚𝐜𝐭js) | 💯 Helping people in their prefessional growth in web development | Podcaster | Content producer | Advice for growth and development to business owners
+@asrez 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 Developer (𝐑𝐞𝐚𝐜𝐭js) | 💯 Helping people in their professional growth in web development | Podcaster | Content producer | Advice for growth and development to business owners
