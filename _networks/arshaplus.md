@@ -44,7 +44,7 @@ experiences:
     tags: coding programming learning academy
 projects:
   - name: TaaKey??
-    description: An android app to assis [sd  ] t soldiers with about 150,000 installs on cafebazar
+    description: An android app to assist soldiers with about 150,000 installs on cafebazar
     link: https://taakey.ir
   - name: QorfeChi?!
     description: A platform to assist online businesses
