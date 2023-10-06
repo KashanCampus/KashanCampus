@@ -4,7 +4,7 @@ permalink: /profile/mhdi-nzari/
 name: Mahdi
 family: Nazari
 github: mhdi-nzari
-gitlab: ...
+gitlab: https://gitlab.com/mahdi.nazari.gb008
 website: https://mahdi-nazari.ir/
 linkedin: https://www.linkedin.com/in/mhdi-nzari/
 twitter: https://twitter.com/mhdi_nzari
@@ -22,21 +22,12 @@ experiences:
     description: توضیح پروژه ها و فعالیت
     link: https://github.com/?1
     tags: graphql php c c++ typescript javascript css html
-  - company_name: شرکت دوم
-    role: برنامه نویس فرانت اند
-    description: توضیح پروژه ها و فعالیت
-    link: https://github.com/?2
-    tags: graphql php c c++ typescript javascript css html
+
 projects:
-  - name: پروژه اول
-    description: توضیح پروژه
-    link: https://github.com/?1
-  - name: پروژه دوم
-    description: توضیح پروژه دوم
-    link: https://github.com/?2
-  - name: پروژه سوم
-    description: توضیح پروژه سوم
-    link: https://github.com/?3
+  - name: My Blog
+    description: sometime write my expreince
+    link: https://blog.mahdi-nazari.ir
+    
 ---
 
-@asrez 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 Developer (𝐑𝐞𝐚𝐜𝐭js) | 💯 Helping people in their professional growth in web development | Podcaster | Content producer | Advice for growth and development to business owners
+𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 Developer (𝐑𝐞𝐚𝐜𝐭js) | Helping people in their professional growth in web development | Podcaster | Content producer | Advice for growth and development to business owners
