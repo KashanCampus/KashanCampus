@@ -17,11 +17,11 @@ city: KSH
 role: Software engineer
 languages: html css js react nextjs ts
 experiences:
-  - company_name: شرکت اول
+  - company_name: Asrez Team
     role: برنامه نویس فرانت اند
-    description: توضیح پروژه ها و فعالیت
-    link: https://github.com/?1
-    tags: graphql php c c++ typescript javascript css html
+    description: Immplement Ui Project 
+    link: https://github.com/orgs/Asrez/teams/front-end
+    tags: html css tailwindcss js react ts graphql
 
 projects:
   - name: My Blog
